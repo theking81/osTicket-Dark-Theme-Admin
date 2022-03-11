@@ -13,7 +13,8 @@ https://raw.githubusercontent.com/theking81/OsTicket-Dark-Theme-Admin/main/image
 https://raw.githubusercontent.com/theking81/OsTicket-Dark-Theme-Admin/main/image-03.jpg
 
 
-IMPORTANT INFORMATION:
+IMPORTANT INFORMATION:*
+
  Please note this css has a wide screen page.  
 
 If you want the BOX version, please replace:  
