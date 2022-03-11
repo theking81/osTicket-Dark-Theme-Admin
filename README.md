@@ -1,4 +1,4 @@
-OsTicket-Dark-Theme-Admin
+osTicket-Dark-Theme-Admin
 This is a CSS dark theme for osTicket
 
 This dark theme version 1.0.1 is made for osTicket
